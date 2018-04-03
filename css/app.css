@@ -1,8 +1,25 @@
-.cell {border:1px; solid red; background-color: rgba 255, 255, 0, 0}
+.cell {border:1px solid red; background-color:hsla(290, 100%, 50%, 0.5);}
 
-/* .grid-container{border: 1px solid red;}
+.grid-container{border:1px solid red;}
 
-.grid-x{border: 1px solid blue;}
 
-.cell{border:1px solid green;}
- */
+header, footer {background-color:hsla(290, 100%, 50%, 0.5);}
+
+
+
+
+/* h1{color:red;}
+
+@media screen and (min-width: 40.063em){
+
+  h1 {color :green;font-size:90px;}
+
+}
+
+@media print {
+
+  h1{color: black;}
+
+}
+
+(min-width: 40.063em) { } min-width 641px, */
