@@ -1,6 +1,6 @@
-.cell {border:1px solid red; background-color:hsl(0, 49%, 50%)
+.cell {border:1px solid seagreen; background-color:hsl(0, 49%, 50%)
 
-.grid-container{border:1px solid red;}
+.grid-container{border:1px solid seagreen;}
 
 font-family: 'Montserrat', sans-serif;
 
@@ -8,42 +8,6 @@ header, footer {background-color:hsla(0, 49%, 50% 0.5);}
 
 div.p {
     text-align: center;
-}
-
-.portfolio-resume-spacing {
-  margin-bottom: 2rem;
-}
-
-.portfolio-resume-wrapper {
-  padding: 2rem 4rem;
-}
-
-.portfolio-resume-headshot {
-  margin-bottom: 2rem;
-  border-radius: 50%;
-}
-
-.portfolio-resume-header {
-  text-transform: uppercase;
-  padding-bottom: 1rem;
-  border-bottom: 1px solid #e6e6e6;
-  font-weight: bold;
-  margin-bottom: 1rem;
-}
-
-.portfolio-resume-contact-info {
-  margin-bottom: 0.75rem;
-}
-
-.portfolio-resume-contact-info a {
-  color: #0a0a0a;
-}
-
-.portfolio-resume-contact-info .fa {
-  font-size: 1.4rem;
-  padding-right: 0.8rem;
-  vertical-align: middle;
-  color: #0a0a0a;
 }
 
 Similar Building Blocks
