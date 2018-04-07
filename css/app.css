@@ -1,3 +1,8 @@
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .cell {border:1px solid seagreen; background-color:hsl(0, 49%, 50%)
 
 .grid-container{border:1px solid seagreen;}
